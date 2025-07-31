@@ -1,4 +1,4 @@
-# TerraformAWS
+# Terraform - AWS
 ## Creating EC2 using Terraform
 ### File Structure
 ```javascript
